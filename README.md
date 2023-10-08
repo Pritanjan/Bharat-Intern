@@ -1,6 +1,5 @@
 # Bharat-Intern
 
-
 **TASK 1**
 
 Portfolio
@@ -15,9 +14,9 @@ A portfolio website made up of HTML, CSS telling about you and your accomplishme
 
 **TASK 2**
 
-Create a web application using create-react-app
+Temperature Converter 
 
-
+Create a simple website using CSS, HTML, JAVASCRIPT to convert temperature form Celsius to Fahrenheit and etc.
 
 <a href ="https://pritanjan.github.io/Temperature-Converter/"> Live Link 
 
@@ -36,9 +35,8 @@ Create a web application using create-react-app
 
 
 
-**Task 4**
 
-<a href = ""> Live Link
+
 
 
 
